@@ -2,7 +2,7 @@
   "orgName": "DreamHouse Realty",
   "edition": "Developer",
   "settings": {
-    "orgPreferenceSettings": {
+    "mobileSettings": {
       "s1EncryptedStoragePref2": false
     }
   }
